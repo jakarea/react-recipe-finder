@@ -44,4 +44,4 @@ my-app/
 
 ![Screenshort](https://raw.githubusercontent.com/jakarea/react-recipe-finder/master/src/assets/imgs/Screenshot_2.png)
 
-![Screenshort](https://raw.githubusercontent.com/jakarea/react-recipe-finder/master/src/assets/imgs/Screenshot_2.png)
+![Screenshort](https://raw.githubusercontent.com/jakarea/react-recipe-finder/master/src/assets/imgs/Screenshot_14.png)
